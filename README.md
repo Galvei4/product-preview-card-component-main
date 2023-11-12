@@ -30,7 +30,7 @@ I took the mobile screenshot with a resolution of 375px width and 690px height, 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Check out here](https://product-preview-card-component-main-jgcnuih7d-galveias-projects.vercel.app/)
 
 ## My Process
 
@@ -42,10 +42,8 @@ I took the mobile screenshot with a resolution of 375px width and 690px height, 
 
 ### Problems I had
 
-I had some problems when I needed to put the image in the div's background, so I created a media query for the mobile with a minimum width of 375px and a maximum width of 1339px (1px less than the desktop style). It was the only way I got to make it work, and if it works, don't touch it, right?
-
-Algo, in the early begginning, CSS code was in a different file from HTML, but somehow, when I deployed the repository to Vercel, CSS didn't work so i put it in the same file.
+I had some problems when I needed to put the image in the div's background, so I created a media query for the mobile with a minimum width of 375px and a maximum width of 1439px (1px less than the desktop style). It was the only way I got to make it work, and if it works, don't touch it, right?
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Galvei4)
+- Frontend Mentor - [@Galvei4](https://www.frontendmentor.io/profile/Galvei4)
