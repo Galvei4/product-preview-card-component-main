@@ -25,8 +25,8 @@ Users should be able to:
 ### Screenshot
 
 I took the mobile screenshot with a resolution of 375px width and 690px height, using Responsive Design Mode (used Firefox), and the desktop version with a resolution of 1440px width and 900px height.
-[Mobile]("screenshots/mobile.png")
-[Desktop]("screenshots/desktop.png")
+[Mobile](https://i.imgur.com/9p1Bavp.png)
+[Desktop](https://i.imgur.com/Ovx94oI.png)
 
 ### Links
 
